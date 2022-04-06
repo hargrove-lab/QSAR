@@ -3,6 +3,23 @@ The diversity of RNA structural elements and their documented role in human dise
 ![image](https://user-images.githubusercontent.com/103124833/161992793-f47ef5ff-411a-4c60-9531-d9042f4b4445.png)
 
 QSAR workflow. **A**. Input molecules were searched for “protomers” and then searched on conformations of each protomer. Molecular descriptors were calculated for each conformation and averaged based on Boltzmann distribution. **B**. Small molecules binding HIV-1 TAR were characterized via SPR and parameters including KD, kon and koff were fitted globally. **C**. With representative data splitting and lasso-assisted model searching, the final model was selected based on the performance on the separate test set.
+# Requirements
+#### Python == 3.9.5
+- RDKit
+- Numpy
+- Pandas
+#### RStudio == 1.4.1717
+- Prospectr
+- Rgl
+- Ggplot2
+- ggfortify
+- Magrittr
+- Glmnet
+- Tree
+- randomForest
+- Gbm
+- matlib
+#### MATLAB == R2020a
 # More Information
 For more information, please refer to our paper: <br>
 Cai, Z., Zafferani, M., Akande, O., & Hargrove, A. (2021). Quantitative Structure Activity Relationship (QSAR) study predicts small molecule binding to RNA structure.<br>
