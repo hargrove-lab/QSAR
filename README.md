@@ -22,8 +22,8 @@ QSAR workflow. **A**. Input molecules were searched for “protomers” and then
 #### MATLAB == R2020a
 ## More Information
 For more information, please refer to our paper: <br>
-Cai, Z., Zafferani, M., Akande, O., & Hargrove, A. (2021). Quantitative Structure Activity Relationship (QSAR) study predicts small molecule binding to RNA structure.<br>
-https://doi.org/10.26434/chemrxiv-2021-czl9p-v2
+Cai, Z., Zafferani, M., Akande, O., & Hargrove, A. (2022). Quantitative Structure Activity Relationship (QSAR) study predicts small molecule binding to RNA structure.<br>
+https://doi.org/10.1021/acs.jmedchem.2c00254
 ## Acknowledgements
 This work was supported by Duke University, U.S. National Institutes of Health (U54 AI150470), the Alfred P. Sloan Foundation, and an award from Duke University School of Medicine Core Facilities for use of the BIA Core. Z.C. was supported in part by a Kathleen Zielik Fellowship from the Duke University Chemistry Department. We acknowledge past and present Hargrove Lab members for their assistance with project conceptualization and manuscript editing. We particularly thank former lab members Dr. Neeraj Patwardhan, Ph.D., Dr. Anita Donlic, Ph.D. and Dr. Aline Umuhire Juru, Ph.D. for donating the synthesized DMA, DPF and DMA molecules used here. We thank Duke graduate student Jiayue Xu from interdisciplinary data science for constructive discussions and suggestions. Surface plasmon resonance analyses were performed in the Duke Human Vaccine Institute's Biomolecular Interaction Analysis Shared Resource Facility (Durham, NC) under the direction of Dr. S. Munir Alam and Dr. Brian E. Watts.
 ## Questions?
