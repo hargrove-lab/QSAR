@@ -1,4 +1,4 @@
-setwd("Z:/Projects/Kinetics based SAR/Data/Calculation/R regression/20210907_new des")
+setwd(path)
 
 # load data
 data <- read.csv('kon_refine.csv')
