@@ -20,6 +20,22 @@ QSAR workflow. **A**. Input molecules were searched for “protomers” and then
 - Gbm
 - matlib
 #### MATLAB == R2020a
+
+## Version note:
+In the following newer version, we decide to delete part of the codes that are not related to the core part of the QSAR baseline model construction. Deletion of these codes won't affect the construction of the baseline model but people might need them to perform classical model construction as compared to the baseline model.
+The codes relating to the following packages are going to be deleted:
+R packages:
+1. gbm (build gradient boost machine model)
+2. ggplot2 (visualization)
+3. ggfortify (visualization)
+4. rgl (3d visualization)
+5. tree (build tree-based model)
+6. randomForest (build rf model)
+7. matlib (matrix linear algebra)
+
+Python package:
+1. rdkit (calculate molecular fingerprints for similarity comparison)
+
 ## More Information
 For more information, please refer to our paper: <br>
 Cai, Z., Zafferani, M., Akande, O., & Hargrove, A. (2022). Quantitative Structure Activity Relationship (QSAR) study predicts small molecule binding to RNA structure.<br>
