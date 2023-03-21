@@ -1,6 +1,4 @@
-setwd("Z:/Projects/Kinetics based SAR/Data/Calculation/R regression/20210907_new des")
-
-
+setwd(path)
 # load data
 data <- read.csv('KD_refine.csv')
 
@@ -15,7 +13,6 @@ eval_results <- function(true, predicted, df) {
     RMSE = RMSE,
     Rsquare = R_square)
 }
-
 
 
 # randomize the data splitting 100 times (36:12)
