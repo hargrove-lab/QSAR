@@ -22,7 +22,7 @@ QSAR workflow. **A**. Input molecules were searched for “protomers” and then
 #### MATLAB == R2020a
 
 ## Version note:
-In the following newer version, we decide to delete part of the codes that are not related to the core part of the QSAR baseline model construction. Deletion of these codes won't affect the construction of the baseline model but people might need them to perform classical model construction as compared to the baseline model.
+In the following newer version (after March 21,2023), we decide to delete part of the codes that are not related to the core part of the QSAR baseline model construction. Deletion of these codes won't affect the construction of the baseline model but people might need them to perform classical model construction as compared to the baseline model.
 The codes relating to the following packages are going to be deleted:
 R packages:
 1. gbm (build gradient boost machine model)
